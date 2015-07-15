@@ -1,11 +1,22 @@
 {
-	"color_scheme": "Packages/User/Monokai (SublimePythonIDE).tmTheme",
-	"font_size": 10,
+	"always_show_minimap_viewport": false,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SublimePythonIDE) (SL).tmTheme",
+	"font_size": 9,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"index_exclude_patterns":
+	[
+		"JoomlaPack.sublime-project",
+		"*.log"
+	],
 	"jsdocs_spacer_between_sections": true,
+	"rulers":
+	[
+		80
+	],
 	"show_line_endings": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,

@@ -1,15 +1,14 @@
 {
-	"http_proxy": "10.89.28.22:3128",
-	"https_proxy": "10.89.28.22:3128",
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"AAAPackageDev",
 		"AdvancedNewFile",
 		"Alignment",
+		"Anaconda",
 		"AutoFileName",
-		"AutoPEP8",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"ChannelRepositoryTools",
@@ -17,6 +16,7 @@
 		"ColorPicker",
 		"CSScomb",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"GitGutter",
 		"GoToClass",
@@ -26,17 +26,15 @@
 		"Markdown Preview",
 		"OmniSharp",
 		"Package Control",
+		"Phpcs",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeCodeIntel",
-		"SublimePythonIDE",
-		"SublimeREPL",
+		"SublimeLinter",
 		"SyncedSideBar",
 		"TrailingSpaces",
 		"Xdebug Client"
 	],
-	"proxy_password": "Kj4qgSUJTB1000",
-	"proxy_username": "atualizacoes",
 	"repositories":
 	[
 	]
