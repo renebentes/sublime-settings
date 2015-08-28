@@ -1,0 +1,9 @@
+{
+  "sync": [
+    {
+      "type": "local",
+      "local": "/media/rene/Dados/Sc Rene/bootstrap-gallery",
+      "remote": "/home/rene/bootstrap-gallery"
+    }
+  ]
+}

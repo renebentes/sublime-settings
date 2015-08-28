@@ -1,0 +1,8 @@
+{
+  // DocBlockr
+  "jsdocs_min_spaces_between_columns": 2,
+
+  // Aligment
+  "alignment_chars": ["=", ":"],
+  "alignment_space_chars": ["=", ":"],
+}
